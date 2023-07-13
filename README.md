@@ -2,25 +2,25 @@
 
 Submitted by: **Anthony Jerez**
 
-**Screen Color Generator** is an app that provides information of one's name, university, and desired occupation. Users can interact with a button to alter the screen's color to be any randomly generated color. 
+**Screen Color Generator** is an app that provides information on one's name, university, and desired occupation. Users can interact with a button to alter the screen's color to be any randomly generated color. 
 
-Time spent: **1** hour spent in total
+Time spent: **1.5** hour(s) spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are able to see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Anthony-Jerez/IOS101-Prework/assets/87133474/9ab0de9e-6efb-468b-bd27-39ddfab48a72' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Kap](https://getkap.co/) 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -28,24 +28,22 @@ GIF created with ...
 
 ## App Brainstorming 
 Favorite Applications: Instagram, Discord, Nike
-Instagram:
+1) Instagram:
 * Ability to tag people on shared posts 
 * Large group chats
 * Commenting on shared posts
-Discord:
+2) Discord:
 * Creating channels to allow information to be much more readily accessible
 * Allowing a single server to contain a large number of members
-* Ability to implement an AI chat bot to provide assistance to members
-Nike:
+* Ability to implement an AI chatbot to provide assistance to members
+3) Nike:
 * Personalized customer experience
 * Ability to easily connect and chat with Nike experts
 
-write paragraph here ..... 
-
+Currently, I'm interested in creating a fitness app that provides a personalized user experience. Depending on the user's fitness goal and information, the app will provide the user with workout and nutritional plans. Users will be allowed to chat with professionals, connect with people that share similar fitness goals, and provide constructive feedback regarding the current state of the app or issues encountered whilst using the app. Ultimately, the goal of the app is to ensure that users can achieve their fitness goals, whether it be gaining muscle mass or losing weight, in the most efficient and safest way possible. 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+My initial challenge was understanding Swift syntax. However, after spending ample time reading Apple's Swift guide and familiarizing myself more with Swift, I overcame this issue.
 
 ## License
 
